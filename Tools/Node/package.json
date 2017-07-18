@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "NodeJS server demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Eduardo Oviedo",
+  "license": "ISC",
+  "dependencies": {
+    "mkdir": "0.0.2",
+    "mkdirp": "^0.5.1"
+  }
+}
