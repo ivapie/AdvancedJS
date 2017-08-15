@@ -1,4 +1,4 @@
-// Constants
+// Let keywordds
 // Before
 
 var i, x, y;
